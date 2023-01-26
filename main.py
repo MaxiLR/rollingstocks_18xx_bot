@@ -110,4 +110,4 @@ if __name__ == '__main__':
                         By.XPATH, "/html/body/div[1]/div[4]/div/div/div[5]/button").click()
                         
             sleep(5)
-        # driver.quit()
+        driver.quit()
